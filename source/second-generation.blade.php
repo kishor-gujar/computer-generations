@@ -34,6 +34,6 @@
             </div>
         </div>
         <h5> Examples</h5>
-        IBM 7000, NCR 304, IBM 650, IBM 1401, ATLAS and Mark III are the examples of second generation computers.
+        <p>IBM 7000, NCR 304, IBM 650, IBM 1401, ATLAS and Mark III are the examples of second generation computers.</p>
     </div>
 @endsection
