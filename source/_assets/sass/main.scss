@@ -25,7 +25,6 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -113,9 +112,10 @@ p {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 40px 16px;
     text-decoration: none;
     font-size: 17px;
+    text-transform: uppercase;
 }
 
 ul {
@@ -159,6 +159,11 @@ ul {
         position: absolute;
         right: 0;
         top: 0;
+    }
+    .topnav a {
+    
+        padding: 20px 16px;
+        text-transform: uppercase;
     }
     .topnav.responsive a {
         float: none;

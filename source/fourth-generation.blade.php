@@ -29,7 +29,7 @@
             <li>Latest technology was required for manufacturing of microprocessors.</li>
         </ul>
         <h3> Examples </h3>
-        Some Computers of the fourth generation include:
-        ALTAIR 8800, Apple I, Macintosh and IBM PC
+        <p> Some Computers of the fourth generation include:
+        ALTAIR 8800, Apple I, Macintosh and IBM PC</p>
     </div>
 @endsection
